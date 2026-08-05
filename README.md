@@ -150,18 +150,7 @@ jupyter notebook
 
 ---
 
-## 👥 Authors
 
-This repository presents work completed as part of a university group project.
-
-Project team:
-
-- Dounia Boukerne
-- Loubna Douiri
-- Ayoub Rharba
-- Taha-Yassine Bouchhioua
-
----
 
 ## 📚 Academic Context
 
